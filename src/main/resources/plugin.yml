@@ -1,0 +1,7 @@
+name: SimpleGraves
+version: ${project.version}
+main: me.silentprogram.simplegraves.SimpleGraves
+api-version: 1.14
+prefix: SimpleGraves
+authors: [ SilentProgram ]
+description: Simple gravestone plugin
